@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Story - Reflection</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Reflection</h1>
+    <p>Looking back, this journey changed everything...</p>
+    <a href="page4.html">Back to Page 4</a>
+    <a href="index.html">Return to Introduction</a> 
+</body>
+</html>   
